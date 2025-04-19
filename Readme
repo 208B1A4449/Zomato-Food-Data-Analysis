@@ -1,0 +1,17 @@
+Zomato Bangalore Restaurant Trends — Hackathon Project:
+
+A data analysis project exploring restaurant trends in Bangalore using Zomato's real-world dataset. This project was part of a hackathon organized by Innomatics Research Labs and includes:
+
+1. Data Cleaning & Preprocessing
+
+2. Exploratory Data Analysis (EDA)
+
+3. Geospatial Mapping with Folium
+
+4. Cuisine-Specific Mapping (e.g., Italian Restaurants)
+
+5. Interactive Restaurant Density Visualization
+
+6. Actionable Business Insights & Recommendations
+
+This repository highlights location-based trends, customer preferences, and restaurant popularity to support data-driven decision-making in the food industry.
